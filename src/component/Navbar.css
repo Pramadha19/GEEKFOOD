@@ -1,0 +1,41 @@
+.nav-main{
+    background-color: #111827;
+    height: 4rem;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    /* overflow: hidden; */
+    position: fixed;
+    top:0;
+    
+}
+
+.nav-title{
+    display: flex;
+    color: #FFFFFF;
+    align-items: center;
+    gap: 1rem;
+    cursor: pointer;
+}
+
+.nav-list{
+    display: flex;
+    color: #FFFFFF;
+    list-style: none;
+    gap: 3rem;
+}
+
+a{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+a:hover{
+    color: #3B82F6;
+}
+
+a:active{
+    color: #3B82F6;
+}

@@ -1,0 +1,8 @@
+.cart-main-section{
+    /* background-color: blanchedalmond; */
+    padding: 4rem 15rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap:1rem;
+}

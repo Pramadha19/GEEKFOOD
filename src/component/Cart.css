@@ -1,0 +1,26 @@
+.cart-main{
+    box-sizing: border-box;
+    width: 25rem;
+}
+
+.comment{
+    background-color: #F9FAFB;
+    color: #374151;
+    padding: 1rem;
+    border-radius: 1rem;
+    font-size: 1.1rem;
+    line-height: 1.8rem;
+}
+
+.author{
+    height: 5rem;
+    display: flex;
+    gap: 1rem;
+    padding: 1rem;
+}
+
+.author-img{
+    height: 2.5rem;
+    width: 2.5rem;
+    border-radius: 50%;
+}
